@@ -1,6 +1,4 @@
-
 # Recreating a Layout
-![Desafio - Avançado e acessível (1)](https://github.com/rodirog/pagina-web-2/assets/101756238/7bfa6e5d-7397-48b2-8874-566f8c26c125)
 
 ## 💻 Project
 A web page recreated from an existing Figma design
@@ -17,4 +15,4 @@ A web page recreated from an existing Figma design
 - Figma
 
 ## 🔖 Layout
-You can view the layout through [this link](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) (Figma account is required for access)
+You can view the layout through [this link](https://www.figma.com/community/file/1182751789348533739) (Figma account is required for access)
