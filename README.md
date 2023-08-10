@@ -15,4 +15,4 @@ A web page recreated from an existing Figma design
 - Figma
 
 ## 🔖 Layout
-You can view the layout through [this link](https://www.figma.com/community/file/1182751789348533739) (Figma account is required for access)
+You can view the layout through [this link](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) (Figma account is required for access)
